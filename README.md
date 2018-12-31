@@ -41,6 +41,7 @@
 ### GUI
 - Running Command: cd to code directory
 	- python gui.py
+  In file gui.py,387 line, you can lower the threshold value. Since in the poster session day, the noise is huge, we set the threshold value higher than usual. You can turn it down a bit to help improve voice recognition accuracy.
 - Main Interface
 <img src="howtouse1.jpg" width="420px" height="300px"/>
 - Voice Input
