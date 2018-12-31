@@ -39,8 +39,8 @@
 <img src="howtouse4.png" width="800px" height="632px"/>
 
 ### GUI
-- Running Command:
-	- python ./code/gui.py
+- Running Command: cd to code directory
+	- python gui.py
 - Main Interface
 <img src="howtouse1.jpg" width="420px" height="300px"/>
 - Voice Input
